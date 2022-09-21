@@ -33,7 +33,7 @@ ___
 ## Model Deployment
 The final model with the best score was deployed on a web application built with **Django** with the frontend built with **HTML & CSS** with **Boostrap 4** as the CSS Framework.
 
-![Web application of the model](plots\app.png)
+![Web application of the model](plots/app.png)
 
 
 ___ 
