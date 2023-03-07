@@ -16,7 +16,7 @@ An application that allows users to estimate the price of rent (per year) of a r
 
 * LightGBM had an Mean Absolute Error (MAE) score of ₦1.17 million
 
-* Model was deployed on a web application built using **Django** available at [Lagos Estimator](https://lagos-estimator.herokuapp.com/)
+* Model was deployed on a web application built using **Django** available at [Lagos Estimator](https://lagos-estimator.onrender.com/)
 ___
 ## Model Performamce
 
